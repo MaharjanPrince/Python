@@ -1,0 +1,11 @@
+{
+  "name": "Random",
+  "age": 19,
+  "fav_books": [
+    "The Stranger",
+    "Metamorphis",
+    "Myth of Sisyphus",
+    "Meditation"
+  ],
+  "hobby": "writing"
+}
